@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-👉 Check out the live demo [here](<provide your live demo link>).
+👉 Check out the live demo [here](https://khaled-farahat.github.io/Leon-Landing/).
 
 ## 🎥 Demo Video
 
